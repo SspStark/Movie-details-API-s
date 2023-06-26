@@ -175,7 +175,7 @@ Returns a list of all movie names directed by a specific director
 
   ...
 ]
-```
+``
 
 <br/>
 
