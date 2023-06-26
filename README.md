@@ -173,7 +173,7 @@ Returns a list of all movie names directed by a specific director
     movieName: "Captain Marvel",
   },
 
-  ...
+  ..
 ]
 ``
 
